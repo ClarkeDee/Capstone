@@ -1,0 +1,96 @@
+Perpetrator-categories of violent-injury-related visits to U.S. hospital emergency departments,,,,,,,,,,,,Repository:
+"Men and women ages 18 & over, unless otherwise specified",,,,,,,,,,,,http://acrosswalls.org/datasets/
+,,,,,,,,,,,,Version: 1.0
+Best estimates,,,,,,,,,,,,
+,visits to hospital emergency departments,,,,,,,,,,,
+, in 1994,,in 2001,,in 2008,,"in 2008, ages 15-44",,,,,
+by cause of injury-related visit,men,women,men,women,men,women,men,women,,,,notes
+intimate partner violence (ipv),"69,225","213,918","131,227","289,466","115,592","263,341","79,754","240,105",,,,"men and women defined as persons ages 18 and over, unless otherwise specified"
+domestic violence (dv),"142,269","262,504","238,320","359,720","232,544","322,928","180,969","298,159",,,,for details see below and details sheets
+any form of violence,"670,401","434,076","808,019","538,848","831,680","497,628","776,364","458,504",,,,
+any cause of injury,"12,799,800","  14,712,900 ","11,128,595","9,555,462","11,547,219","10,382,240","8,414,796","6,152,132",,,,1994 all-injury visits are from NHAMCS 2004; see victims-injuries-NHAMCS:illness & injury
+victimization shares by sex:,,,,,,,,,,,,
+intimate partner violence (ipv),24%,76%,31%,69%,31%,69%,23%,75%,,,,NCVS has a much lower sample size and much smaller reported victimizations resulting in hospitalization.
+domestic violence (dv),35%,65%,40%,60%,42%,58%,36%,62%,,,,I judge NCVS to be less credible than NEISS is measuring serious injury from violence.
+any form of violence,61%,39%,60%,40%,63%,37%,61%,37%,,,,
+any cause of injury,47%,53%,54%,46%,53%,47%,45%,42%,,,,
+injury visit shares for intimate-partner violence:,,,,,,,,,,,,
+among injury visits from violence,10%,49%,16%,54%,14%,53%,10%,52%,,,,
+among all injury visits,0.5%,1.5%,1.2%,3.0%,1.0%,2.5%,0.9%,3.9%,,,,
+injury visit shares for domestic violence:,,,,,,,,,,,,
+among injury visits from violence,21%,60%,29%,67%,28%,65%,23%,65%,,,,
+among all injury visits,1.1%,1.8%,2.1%,3.8%,2.0%,3.1%,2.2%,4.8%,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,men,women,total,,,,,,,,,
+NEISS reported victimizations / NCVS victimizations,5.0,4.4,4.7,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,injury-related visits to hospital emergency departments,,,,,,,,,,,
+,1994 SIVV,,"1995-2004, NCVS, per year",,2001 NEISS,,2008 NEISS,,"2008 NEISS, ages 15-44",,,
+,men,women,men,women,men,women,men,women,men,women,,
+Intimate partner violence,"33,657","174,393","3,683","45,392","27,640","140,639","28,060","139,533","20,682","122,559",,see details sheets for standard errors associated with these point estimates
+Domestic violence,"77,674","213,386","13,610","57,909","50,197","174,772","56,450","171,106","46,930","152,193",,Note NCVS total reported violent victimizations is much lower than hospital emergency department visits from violent injuries
+Violence by friends or acquaintances,"168,102","83,991","38,480","27,270","62,759","58,965","57,039","63,284","64,054","56,693",,"the point estimate for men ages 15-44 is higher than for men ages 18 & over, but both are within the same error bounds"
+Violence by strangers,"192,470","57,452","103,782","35,582","18,939","6,717","38,953","12,555","35,555","10,659",,
+Violence – unspecified perpetrators,"232,155","79,247","4,730","2,368","676,124","298,394","679,238","250,683","629,826","238,960",,
+summed total for violence,"670,401","434,076","160,602","123,129","808,019","538,848","831,680","497,628","776,364","458,504",,
+,,,,,,,,,,,,
+sample size,"5,335","2,821",595,487,"162,480","138,233","180,884","158,440","136,098","98,183",,
+,,,,,,,,,,,,
+unspecified perpetrators share of toal,35%,18%,3%,2%,84%,55%,82%,50%,81%,52%,,
+,,,,,,,,,,,,
+dv injury share (among specified perpetrators),,,,,,,,,,,,
+within home,,,,,73%,92%,65%,84%,65%,83%,,"for 2001 and 2008, allocate unspecified perpetrators by dv share among specified perpetrators,"
+outside home,,,,,22%,54%,22%,55%,17%,56%,,controlling for sex and incident location
+,,,,,,,,,,,,
+violent injury with unspecified perpetrators,,,,,,,,,,,,
+within home,,,,,"77,325","60,591","62,384","47,939","55,190","42,077",,
+outside home,,,,,"598,799","237,804","616,854","202,744","574,636","196,882",,
+,,,,,,,,,,,,
+dv allocated from unspecified perpetrators,,,,,,,,,,,,
+within home,,,,,"56,387","55,549","40,270","40,365","36,091","35,067",,
+outside home,,,,,"131,736","129,399","135,825","111,457","97,948","110,900",,
+dv allocated total,"64,594","49,118",,,"188,123","184,948","176,094","151,822","134,040","145,967",,1994 allocated based on 2001 unspecified shares
+dv total direct and allocated,"142,269","262,504",,,"238,320","359,720","232,544","322,928","180,969","298,159",,
+dv allocated share of unspecified,28%,62%,,,28%,62%,26%,61%,21%,61%,,
+,,,,,,,,,,,,
+ipv injury share in dv with specified perpetrators,,,,,55%,80%,50%,82%,44%,81%,,
+ipv allocated from unspecified perpetrators,"35,568","39,525",,,"103,587","148,827","87,532","123,807","59,072","117,546",,1994 allocated based on 2001 unspecified shares
+ipv total direct and allocated,"69,225","213,918",,,"131,227","289,466","115,592","263,341","79,754","240,105",,
+ipv allocated share of unspecified,15%,50%,,,15%,50%,13%,49%,9%,49%,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+NEISS/NCVS total injury-related visits from violence,,,,,4.7,,,,,,,
+men/women for all violence,1.5444323,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+U.S. population of men and women (in 2000),,,,,"100,994,367","108,133,727",,,,,,"U.S. Census Bureau, Census 2000 Summary File 1, Matrices P13 and PCT12."
+,,,,,,,,,,,,http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/00_SF1/QTP1/0100000US
+,,,,,,,,,,,,
+,,,"1995-2004, NCVS, per year",,,,,,,,,
+NCVS-reported victimization shares within perpetrator category,,,men,women,,,,,,,,
+Intimate partner violence,,,8%,92%,,,,,,,,
+Domestic violence,,,19%,81%,,,,,,,,
+Violence by friends or acquaintances,,,59%,41%,,,,,,,,
+Violence by strangers,,,74%,26%,,,,,,,,
+Violence – unspecified perpetrators,,,67%,33%,,,,,,,,
+summed total for violence,,,57%,43%,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+in 2008,,,men,women,total,men's share,,,,,,
+"intimate partner violence, all victimizations NCVS",,,"88,120","504,980","593,100",15%,,,,,,"for NCVS figure, see BJS, Criminal Victimization 2008, p. 5, Table 6"
+"intimate partner violence, hospital visits NEISS",,,"115,592","263,341","378,932",31%,,,,,,
+,,,,,,,,,,,,
+,,,,NCVS/NEISS,1.57,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"NVAWS, survey reports covering c. 1995",,,men,women,total,men's share,,,,,,"Tjaden & Thoennes (2000) p. 9, Exhibit 1"
+intimate-partner violence victims (per year),,,"1,020,228","1,812,546","2,832,774",36%,,,,,,"Intimate-partner violence based on survey administrators' definitions and judgments encomassing rape, physical assault, and stalking"
+,,,,,,,,,,,,women and men ages 18 and older in US. 
+,,,,,,,,,,,,
+,,,,,,,,,,,,"Tjaden, Patricia and Nancy Thoennes (2000). Extent, Nature, and Consequences of Intimate Partner Violence: Findings from the National Violence Against Women Survey, National Institute of Justice, available at:"
+,,,,,,,,,,,, http://www.ncjrs.gov/pdffiles1/nij/181867.pdf
